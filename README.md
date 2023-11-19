@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianAnalyst
-- 👀 I’m interested in Finance
-- 🌱 I’m currently learning Data Analytics
+- 👀
+- 🌱 I'm a Data Analyst
 - 📫 How to reach me: https://www.linkedin.com/in/brian-analyst/
 
 <!---
