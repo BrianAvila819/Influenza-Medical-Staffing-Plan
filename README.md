@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrianAnalyst
-- 👀
-- 🌱 I'm a Data Analyst
+- 👀 I'm a Data Analyst
 - 📫 How to reach me: https://www.linkedin.com/in/brian-analyst/
 
 <!---
